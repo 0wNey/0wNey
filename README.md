@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0wNey
+- 🇨🇵 French développer
+- 💻 I’m currently learning python
