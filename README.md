@@ -20,10 +20,10 @@
     </strong>
  
 <p align="center">
-         <a href="https://discord.gg/DDtDRU7">
+         <a href="">
          <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
          </a>
-         <a href="https://0x307845.github.io">
+         <a href="">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 <br>
