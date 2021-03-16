@@ -1,9 +1,9 @@
+# 🌴Informatique Lover🌴
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/485011383721787415/820903838399725609/3fYL8i6Q-n-155t3dn_4jVzMxW5LECK4IAS4dXEaEVFBYZDBe48W9oFemtZz0DT.gif">
 </p>   
 <br>
 <br>
-# Test
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=0wNey&show_icons=true&theme=tokyonight" >
 </p>
