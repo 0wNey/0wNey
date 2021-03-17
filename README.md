@@ -1,9 +1,9 @@
 # Peace & Love
-<p align="center">
-    <img src="https://cdn.discordapp.com/attachments/485011383721787415/821749485034143804/e185031e49a9641e860acf924b9c7b18.gif">
-</p>   
-<br>
-<br>
+<img align='right' src="https://cdn.discordapp.com/attachments/485011383721787415/821749485034143804/e185031e49a9641e860acf924b9c7b18.gif">
+# Informatique Lover
+Jeune passionné d'informatique, futur pentester ! 
+Young computer enthusiast, future pentester!
+</br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=0wNey&show_icons=true&theme=tokyonight" >
 </p>
