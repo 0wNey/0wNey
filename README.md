@@ -1,43 +1,29 @@
-# Informatique Lover
-<img align='right' src="https://cdn.discordapp.com/attachments/485011383721787415/821749485034143804/e185031e49a9641e860acf924b9c7b18.gif">
-Jeune passionné d'informatique, futur pentester ! 
+
+<img align='right' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
+
+# 💻 Informatique Lover
+Jeune Passionné d'informatique, futur pentester
+</br>
 Young computer enthusiast, future pentester!
 </br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=0wNey&show_icons=true&theme=tokyonight" >
-</p>
-<br>
-<br>
+</br>
+</br>
+</br>
 
----
-
-<p align="center">
-    <br>
-    <strong>Hi user !<br>
-    French développer, currently learning python3<br> 
-    Enjoy on my git !</strong> <br>
-    <br>
-    </strong>
- 
-<p align="center">
-         <a href="">
-         <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
-         </a>
-         <a href="">
-         <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
-         </a>
-<br>
-<br>
-<br>
-</p>
+# :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🐍 Learning Python3.9
+- 🇫🇷 French développer 
+- 💻 Enjoy on my git.
 
 
----
+## 📫 Contact
+- 👨‍💻 TryHackMe : https://www.tryhackme.com/p/0wNey
+- 🖤 Github : https://github.com/0wNey
+- 💬 Discord : Priv4te#7599
 
+## &#x1f4c8; Stats
 
-<br>
-<br>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wNey&layout=compact&theme=tokyonight">
-</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wNey&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
+  
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0wNey&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="loTus04's GitHub Stats" />
