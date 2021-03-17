@@ -1,6 +1,6 @@
 # Peace & Love
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/485011383721787415/820903838399725609/3fYL8i6Q-n-155t3dn_4jVzMxW5LECK4IAS4dXEaEVFBYZDBe48W9oFemtZz0DT.gif">
+    <img src="https://cdn.discordapp.com/attachments/485011383721787415/821749485034143804/e185031e49a9641e860acf924b9c7b18.gif">
 </p>   
 <br>
 <br>
