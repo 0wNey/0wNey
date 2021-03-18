@@ -2,7 +2,7 @@
 <img align='right' src="https://cdn.discordapp.com/attachments/485011383721787415/821749485034143804/e185031e49a9641e860acf924b9c7b18.gif">
 
 # 💻 Informatique Lover
-Jeune Passionné d'informatique, futur pentester
+Jeune Passionné d'informatique, futur pentester !
 </br>
 Young computer enthusiast, future pentester!
 </br>
