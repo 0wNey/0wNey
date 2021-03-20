@@ -10,7 +10,7 @@ Young computer enthusiast, future pentester!
 </br>
 </br>
 
-# :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+# :book: About Me
 - 🐍 Learning Python3.9
 - 🇫🇷 French développer 
 - 💻 Enjoy on my git.
@@ -28,5 +28,8 @@ Young computer enthusiast, future pentester!
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=0wNey&show_icons=true&line_height=27&count_private=true&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" alt="0wNey GitHub Stats" />
 
-<script src="https://tryhackme.com/badge/312120">
+<script
+
+ src="https://tryhackme.com/badge/312120">
+
 </script>
