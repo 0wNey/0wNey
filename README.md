@@ -19,7 +19,7 @@ Young computer enthusiast, future pentester!
 # Contact
 - TryHackMe : https://www.tryhackme.com/p/0wNey
 - Github : https://github.com/0wNey
-- Discord : !" 0wNey'Reset#7599
+- Discord : Owney#0001
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0wNey&title_color=ff3855&text_color=30d5c8&icon_color=ffff00&bg_color=291b29" />
   
